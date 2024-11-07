@@ -1,0 +1,11 @@
+.social-links a {
+    margin: 0 10px;
+    font-size: 30px;  /* تكبير الأيقونات */
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+    color: #2ecc71;
+}
